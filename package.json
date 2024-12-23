@@ -16,5 +16,13 @@
     "utility"
   ],
   "author": "Md Ashrafujjaman",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjsrana/deep-compare-remove.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devjsrana/deep-compare-remove/issues"
+  },
+  "homepage": "https://github.com/devjsrana/deep-compare-remove#readme"
 }
